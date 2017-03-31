@@ -1,0 +1,31 @@
+@media all and (max-width: 680px) {
+  div.results-list {
+    margin: 0;
+  }
+}
+
+.results-list {
+  margin: 30px;
+  color: #676767;
+  display: flex;
+  flex-direction: column;
+
+  & .nav-bar {
+    padding: 10px 30px;
+    display: flex;
+    flex-direction: row;
+    background-color: #c4c4c4;
+
+    & >div:first-child {
+      flex-grow: 1;
+    }
+  }
+
+  & .button {
+    padding: 0 5px;
+    &:last-child {
+      padding-right: 0;
+      border-left: 1px solid white;
+    }
+  }
+}

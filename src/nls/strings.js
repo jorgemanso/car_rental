@@ -1,0 +1,22 @@
+exports.Strings = {
+  AirConditionInd: 'Air conditioning',
+  TransmissionType: 'Transmission',
+  FuelType: 'Fuel',
+  DriveType: 'Drive',
+  PassengerQuantity: 'Passengers',
+  BaggageQuantity: 'Baggage',
+  Code: 'Code',
+  CodeContext: 'Code-Context',
+  DoorCount: 'Doors',
+  RateTotalAmount: 'Price',
+  true: 'Yes',
+  false: 'No',
+  TRAVEL_INFO: 'Booking Information',
+  PICKUP: 'Pickup',
+  RETURN: 'Return',
+  SORT_BY: 'Sort By:',
+  PRICE: "Price",
+  VENDOR: "Vendor",
+  ASCENDING: "ascending",
+  DESCENDING: "descending"
+}

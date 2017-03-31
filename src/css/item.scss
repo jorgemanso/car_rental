@@ -1,0 +1,54 @@
+@media all and (max-width: 680px) {
+  .car .info div.extras {
+    -moz-column-count: 1;
+    column-count: 1;
+  }
+}
+
+@keyframes display-animation {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.car {
+  padding-bottom: 20px;
+
+  & .header {
+    padding: 10px 30px;
+    font-weight: 600;
+    font-size: 1.2em;
+    background-color: #efefef;
+    display: flex;
+    flex-direction: row;
+
+    & .model {
+      flex-grow: 1;
+    }
+  }
+
+  & .info {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+
+    & .extras {
+      border-left: 1px solid #efefef;
+      -moz-column-count: 2;
+      column-count: 2;
+      padding: 10px 10px 10px 30px;
+      line-height: 1.5;
+    }
+  }
+
+  & img {
+    max-width: 160px;
+    height: 100px;
+    padding: 10px 30px 10px 10px;
+    animation: display-animation;
+    animation-duration: 0.2s;
+  }
+}

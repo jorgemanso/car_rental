@@ -1,0 +1,17 @@
+.App-header {
+  background-color: #4178be;
+  padding: 5px 0 5px 40px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.hidden {
+  display: none;
+}
+
+.button {
+  cursor: pointer;
+}

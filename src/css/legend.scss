@@ -1,0 +1,19 @@
+.legend {
+  background-color: #2091EB;
+  padding: 10px 0 10px 10px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  & > div:first-child {
+    font-size: 24px;
+    padding: 10px 20px;
+  }
+
+  & .pickup-return {
+    padding: 10px 20px;
+    line-height: 1.5;
+    border-left: 1px solid white;
+  }
+}
