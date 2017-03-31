@@ -14,4 +14,6 @@ Runs the app in the development mode. Open [http://localhost:3000](http://localh
 
 The page will reload if you make edits. You will also see any lint errors in the console.
 
+![image](https://cloud.githubusercontent.com/assets/19568156/24562953/a21279b6-1644-11e7-8c86-8e189c2d4010.png)
+
 > This project was initially bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app), and then `rejected`
