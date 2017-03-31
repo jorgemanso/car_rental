@@ -28,7 +28,6 @@
                 "@PassengerQuantity": "5+",
                 "@BaggageQuantity": "3",
                 "@Code": "IFAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "5",
                 "VehMakeModel": {
                   "@Name": "Toyota Rav4 or similar"
@@ -51,7 +50,6 @@
                 "@PassengerQuantity": "5",
                 "@BaggageQuantity": "4",
                 "@Code": "PCAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "4",
                 "VehMakeModel": {
                   "@Name": "Chrysler 300 or similar"
@@ -82,7 +80,6 @@
                 "@PassengerQuantity": "5",
                 "@BaggageQuantity": "4",
                 "@Code": "FDAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "4",
                 "VehMakeModel": {
                   "@Name": "Chevrolet Impala or similar"
@@ -105,7 +102,6 @@
                 "@PassengerQuantity": "5",
                 "@BaggageQuantity": "4",
                 "@Code": "FCAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "3",
                 "VehMakeModel": {
                   "@Name": "Chevrolet Impala or similar"
@@ -128,7 +124,6 @@
                 "@PassengerQuantity": "5+",
                 "@BaggageQuantity": "3",
                 "@Code": "IFAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "5",
                 "VehMakeModel": {
                   "@Name": "Ford Escape or similar"
@@ -151,7 +146,6 @@
                 "@PassengerQuantity": "5",
                 "@BaggageQuantity": "5",
                 "@Code": "LDAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "4",
                 "VehMakeModel": {
                   "@Name": "Cadillac CTS or similar"
@@ -174,7 +168,6 @@
                 "@PassengerQuantity": "5",
                 "@BaggageQuantity": "5",
                 "@Code": "PDAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "4",
                 "VehMakeModel": {
                   "@Name": "Chrysler 300 or similar"
@@ -206,7 +199,6 @@
                 "@PassengerQuantity": "5",
                 "@BaggageQuantity": "4",
                 "@Code": "ICAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "3",
                 "@Size": "6",
                 "VehMakeModel": {
@@ -230,7 +222,6 @@
                 "@PassengerQuantity": "5",
                 "@BaggageQuantity": "2",
                 "@Code": "ECAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "2",
                 "VehMakeModel": {
                   "@Name": "Kia Rio or similar"
@@ -253,7 +244,6 @@
                 "@PassengerQuantity": "5",
                 "@BaggageQuantity": "2",
                 "@Code": "CDAR",
-                "@CodeContext": "CARTRAWLER",
                 "@DoorCount": "5",
                 "VehMakeModel": {
                   "@Name": "Ford Focus or similar"
