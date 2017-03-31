@@ -33,7 +33,7 @@
                 "VehMakeModel": {
                   "@Name": "Toyota Rav4 or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/toyota/rav_4_nologo.jpg"
+                "PictureURL": "./img/toyota_rav_4_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "878.98",
@@ -56,7 +56,7 @@
                 "VehMakeModel": {
                   "@Name": "Chrysler 300 or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/chrysler/300_nologo.jpg"
+                "PictureURL": "./img/chrysler_300_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "851.03",
@@ -87,7 +87,7 @@
                 "VehMakeModel": {
                   "@Name": "Chevrolet Impala or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/chevrolet/impala_nologo.jpg"
+                "PictureURL": "./img/chevrolet_impala_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "836.25",
@@ -110,7 +110,7 @@
                 "VehMakeModel": {
                   "@Name": "Chevrolet Impala or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/chevrolet/impala_nologo.jpg"
+                "PictureURL": "./img/chevrolet_impala.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "836.25",
@@ -133,7 +133,7 @@
                 "VehMakeModel": {
                   "@Name": "Ford Escape or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/ford/escape_nologo.jpg"
+                "PictureURL": "./img/ford_escape_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "928.29",
@@ -156,7 +156,7 @@
                 "VehMakeModel": {
                   "@Name": "Cadillac CTS or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/cadillac/cts_sedan_nologo.jpg"
+                "PictureURL": "./img/cadillac_cts_sedan_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "1118.83",
@@ -179,7 +179,7 @@
                 "VehMakeModel": {
                   "@Name": "Chrysler 300 or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/chrysler/300_nologo.jpg"
+                "PictureURL": "./img/chrysler_300_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "1071.92",
@@ -212,7 +212,7 @@
                 "VehMakeModel": {
                   "@Name": "Toyota Corolla or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/toyota/corolla_nologo.jpg"
+                "PictureURL": "./img/toyota_corolla_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "752.31",
@@ -235,7 +235,7 @@
                 "VehMakeModel": {
                   "@Name": "Kia Rio or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.om/otaimages/kia/rio_nologo.jpg"
+                "PictureURL": "./img/kia_rio_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "731.47",
@@ -258,7 +258,7 @@
                 "VehMakeModel": {
                   "@Name": "Ford Focus or similar"
                 },
-                "PictureURL": "https://cdn.cartrawler.com/otaimages/ford/focus_sedan_nologo.jpg"
+                "PictureURL": "./img/ford_focus_sedan_nologo.jpg"
               },
               "TotalCharge": {
                 "@RateTotalAmount": "731.49",
